@@ -1,0 +1,26 @@
+﻿  源.cpp
+E:\Users\higik\source\repos\国士無双\国士無双\resource.h(9): warning C4005: “IDC_ARROW”: 宏重定义
+  E:\Windows Kits\10\Include\10.0.17763.0\um\winuser.h(10355): note: 参见“IDC_ARROW”的前一个定义
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(86): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(336): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(339): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(362): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(383): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(405): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(423): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(450): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(467): warning C4244: “=”: 从“ULONGLONG”转换到“int”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(501): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(504): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(537): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(559): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(610): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(665): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(669): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(672): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(676): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(682): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(699): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\源.cpp(730): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+E:\Users\higik\source\repos\国士無双\国士無双\Note.h(71): warning C4715: “Zokusei_Hantei”: 不是所有的控件路径都返回值
+  国士無双.vcxproj -> E:\Users\higik\source\repos\国士無双\Debug\国士無双.exe
